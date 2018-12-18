@@ -17,8 +17,9 @@ becoming increasingly community-based and decentralized.
   to connect and work with the PeerPlays **main** network (a.k.a.
   *Alice*). Hence, stable releases are in a `master` or `alice` branch.
 
-* [**Testnets**] Testnets are operated individually, such as *Beatrice* which
-  is operated by [PBSA](https://github.com/PBSA/peerplays/tree/beatrice).
+* [Testnets] Testnets are operated individually, such as Beatrice
+  testnet, which is operated by a group of Peerplays Witnesses, using code
+  published by [PBSA](https://github.com/PBSA/peerplays/tree/beatrice).
 
 ## Repositories
 
