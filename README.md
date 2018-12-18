@@ -1,4 +1,4 @@
-# PeerPlays-Network Community Contributions
+# PeerPlays-Network Contributions
 
 This document shows how the repositories in this organization fit
 together and how code merges from different development companies and
